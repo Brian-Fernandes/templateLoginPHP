@@ -1,0 +1,14 @@
+
+  body.center-form {
+    min-height: 100vh;
+    background-image:linear-gradient(to right, rgb(31, 134, 231), rgb(101, 200, 230));
+  }
+
+  div.center-form {
+
+  }
+
+  div.center-form > form {
+    width: 350px;
+    height: 400px;
+  }
